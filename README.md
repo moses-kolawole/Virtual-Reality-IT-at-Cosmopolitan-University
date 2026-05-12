@@ -38,12 +38,3 @@ The training focused on:
 ## Video Demonstration
 [Click here to watch the VR demonstration](PASTE_YOUR_VIDEO_LINK_HERE)
 
-## Repository Structure
-```plaintext
-Virtual-Reality-Training-Cosmopolitan-University/
-│
-├── README.md
-├── Images/
-├── Videos/
-├── Documentation/
-└── Assets/
