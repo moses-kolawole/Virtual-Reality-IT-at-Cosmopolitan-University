@@ -27,14 +27,14 @@ The training focused on:
 ## Project Images
 
 ### VR Setup
-![VR Setup](Images/vr_setup.jpg)
+![VR Setup](Images/vr_spacecosmopolitan_university.jpg)
 
 ### VR Interaction
-![VR Interaction](Images/interaction_demo.jpg)
+![VR Interaction](Images)
 
-### VR Environment
-![VR Environment](Images/vr_environment.jpg)
+### VR Other Images
+![VR Environment](Images/vr_space_photo3_cosmopolitan_university.jpg)
 
 ## Video Demonstration
-[Click here to watch the VR demonstration](PASTE_YOUR_VIDEO_LINK_HERE)
+[Click here to watch the VR demonstration](https://youtube.com/shorts/MhGQdmCyZTA?feature=share)
 
