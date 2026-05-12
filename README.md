@@ -30,10 +30,10 @@ The training focused on:
 ![VR Setup](Images/vr_spacecosmopolitan_university.jpg)
 
 ### VR Interaction
-![VR Interaction](Images)
+![VR Interaction](Images/vr_space_photo2_cosmopolitan_university.jpg)
 
 ### VR Other Images
-![VR Environment](Images/vr_space_photo3_cosmopolitan_university.jpg)
+[VR Other Images](Images)
 
 ## Video Demonstration
 [Click here to watch the VR demonstration](https://youtube.com/shorts/MhGQdmCyZTA?feature=share)
